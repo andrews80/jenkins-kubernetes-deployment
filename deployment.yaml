@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: andrews80/react-app:latest
+        image: savari37/react-app:latest
         ports:
         - containerPort: 3000
